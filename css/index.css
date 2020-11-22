@@ -1,3 +1,7 @@
 body{
     margin: auto;
 }
+
+#root{
+    background: red;
+}
